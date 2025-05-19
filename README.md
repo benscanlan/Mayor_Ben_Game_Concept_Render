@@ -6,7 +6,7 @@ This `.app` is a **demo** build that showcases the *early guts* of my procedural
 
 ## 🚀 How to Run It (macOS)
 
-1. **Download** the `.zip` from the [Releases](https://github.com/YOUR_USERNAME/Mayor_Ben_Game_Concept_Render/releases) tab  
+1. **Download** the `.zip` from the [⬇️ Download the Demo](https://github.com/benscanlan/Mayor_Ben_Game_Concept_Render/releases/latest)
 2. **Unzip** the file  
 3. **Right click > Open** `Mayor_Ben_Game_Concept_Render.app`  
 4. If macOS complains: go to **System Preferences > Privacy & Security > Open Anyway**
